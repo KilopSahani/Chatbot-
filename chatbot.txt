@@ -1,0 +1,64 @@
+CSE3013 ARTIFICIAL INTELLIGENCE L T P J C
+3 0 0 4 4
+Pre-requisite NIL Syllabus version
+v1.0
+Course Objectives:
+1. To impart artificial intelligence principles, techniques and its history
+2. To assess the applicability, strengths, and weaknesses of the basic knowledge 
+representation, problem solving, and learning methods in solving engineering problems
+3. To develop intelligent systems by assembling solutions to concrete computational 
+problems
+Expected Course Outcome:
+1. Evaluate Artificial Intelligence (AI) methods and describe their foundations.
+2. Apply basic principles of AI in solutions that require problem solving, inference, 
+perception, knowledge representation and learning.
+3. Demonstrate knowledge of reasoning and knowledge representation for solving real world 
+problems
+4. Analyze and illustrate how search algorithms play vital role in problem solving 
+5. Illustrate the construction of learning and expert system
+6. Discuss current scope and limitations of AI and societal implications.
+Student Learning Outcomes (SLO): 1, 7, 17
+Module:1 Artificial Intelligence and its Issues 9 hours
+Definitions - Importance of AI, Evolution of AI - Applications of AI, Classification of AI systems 
+with respect to environment, Knowledge Inferring systems and Planning, Uncertainty and towards 
+Learning Systems.
+Module:2 Overview to Problem Solving 5 hours
+Problem solving by Search, Problem space - State space, Blind Search - Types, Performance 
+measurement.
+Module:3 Heuristic Search 4 hours
+Types, Game playing mini-max algorithm, Alpha-Beta Pruning
+Module:4 Knowledge Representation and 
+Reasoning
+7 hours
+Logical systems Knowledge Based systems, Propositional Logic Constraints, Predicate Logic First 
+Order Logic, Inference in First Order Logic, Ontological Representations and applications
+Module:5 Uncertainty and knowledge Reasoning 7 hours
+Overview Definition of uncertainty, Bayes Rule Inference, Belief Network, Utility Based System, 
+Decision Network
+Module:6 Learning Systems 4 hours
+Forms of Learning Types - Supervised, Unsupervised, Reinforcement Learning, Learning 
+Decision Trees
+Module:7 Expert Systems 7 hours
+Expert Systems - Stages in the development of an Expert System - Probability based Expert 
+Systems - Expert System Tools - Difficulties in Developing Expert Systems - Applications of 
+Expert Systems
+Module:8 Recent Trends 2 hours
+Total Lecture hours: 45 hours
+Text Book(s)
+1. Russell, S. and Norvig, P. 2015. Artificial Intelligence - A Modern Approach, 3rd edition, 
+Prentice Hall.
+2. Poole, D. and Mackworth, A. 2010. Artificial Intelligence: Foundations of Computational 
+Agents, Cambridge University Press.
+Reference Books
+1. Ric, E., Knight, K and Shankar, B. 2009. Artificial Intelligence, 3rd edition, Tata McGraw 
+Hill.
+2. Luger, G.F. 2008. Artificial Intelligence -Structures and Strategies for Complex Problem 
+Solving, 6th edition, Pearson.
+3. Brachman, R. and Levesque, H. 2004. Knowledge Representation and Reasoning, Morgan 
+Kaufmann.
+4. Alpaydin, E. 2010. Introduction to Machine Learning. 2nd edition, MIT Press.
+5. Sutton R.S. and Barto, A.G. 1998. Reinforcement Learning: An Introduction, MIT Press.
+6. Padhy, N.P. 2009. Artificial Intelligence and Intelligent Systems, Oxford University Press.
+Mode of Evaluation: CAT / Assignment / Quiz / FAT / Project / Seminar
+Recommended by Board of Studies 04-04-2014
+Approved by Academic Council No. 37 Date 16-06-2015
